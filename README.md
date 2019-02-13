@@ -1,13 +1,11 @@
+![alt text](http://oi66.tinypic.com/29nuyyb.jpg "Logo Title Text 1")
 # Chiranjeevi Bigata blog
 
 **##Assignment 1 i sthe sample blog**
 
 ### this is a sample blog
 
-**Bold** and *Italic* markup.
+[This is my course link](https://rubigdata.github.io/)
 
-You can use explicit links, e.g., to the [course site](https://rubigdata.github.io/).
 
-And lots more, to see what you can do with Markdown (including images, and tables) take a look at the [Cheatsheet][cheat] (an example of a very useful feature to separate actual links from their references in your text).
 
-[cheat]:        https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet   "Markdown cheatsheet"
