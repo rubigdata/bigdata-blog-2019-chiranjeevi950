@@ -3,7 +3,7 @@
 
 This is the Assignment 1
 
-### this is a sample blog
+### This is a sample blog
 
 [This is my course link](https://rubigdata.github.io/)
 
