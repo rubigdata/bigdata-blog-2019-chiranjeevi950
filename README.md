@@ -1,14 +1,8 @@
-# Sample blog 
+# Chiranjeevi Bigata blog
 
-This is a sample blog using Markdown. Edit this file in order to create your own content. 
+**##Assignment 1 i sthe sample blog**
 
-Some useful features in markdown are:
-- bulleted lists
-- of multiple items
-
-# Headers
-
-## Subheaders
+### this is a sample blog
 
 **Bold** and *Italic* markup.
 
