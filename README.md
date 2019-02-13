@@ -1,7 +1,7 @@
 ![alt text](http://oi66.tinypic.com/29nuyyb.jpg "Logo Title Text 1")
 # Chiranjeevi Bigata blog
 
-**##Assignment 1 **
+This is the Assignment 1
 
 ### this is a sample blog
 
